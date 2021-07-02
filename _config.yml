@@ -11,8 +11,8 @@ title: Core Hackathone
 # Your name to show in the footer
 author: Core Team
 
-domain: core-hackathon.github.io
-url: https://core-hackathon.github.io
+domain: core-hackathon.ru
+url: http://core-hackathon.ru
 
 # --- List of links in the navigation bar --- #
 
@@ -81,7 +81,7 @@ url: https://core-hackathon.github.io
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "core-hackathon.github.io"
+url-pretty: "core-hackathon.ru"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
